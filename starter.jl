@@ -6,9 +6,9 @@ using InteractiveUtils
 
 # ╔═╡ ae4fb092-b3d4-4035-89fb-257125d73252
 begin 
-	using Pkg
-	Pkg.add(url="https://gitlab.engr.illinois.edu/itabrah2/Ellipses.jl")
-	Pkg.add(url="https://gitlab.engr.illinois.edu/itabrah2/Cyclicity.jl")
+	# using Pkg
+	# Pkg.add(url="https://gitlab.engr.illinois.edu/itabrah2/Ellipses.jl")
+	# Pkg.add(url="https://gitlab.engr.illinois.edu/itabrah2/Cyclicity.jl")
 end
 
 # ╔═╡ 00000000-0000-0000-0000-000000000001
